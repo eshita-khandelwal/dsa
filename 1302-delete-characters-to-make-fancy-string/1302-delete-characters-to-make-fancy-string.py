@@ -1,12 +1,20 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        ans = []
+        ans = s[0]
+        prev=s[0]
+        freq=1
         if len(s)<3:
             return s
-        for i in range(0,len(s)-2):
-            if s[i]==s[i+1] and s[i]==s[i+2]:
-                continue
-            ans.append(s[i])
-        ans.append(s[len(s)-2])
-        ans.append(s[len(s)-1])
-        return "".join(ans)
+        for i in range(1,len(s)):
+            if s[i]==prev:
+                freq+=1
+                prev=s[i]
+                if freq<3:
+                    ans+=s[i]
+            else:
+                freq=1
+                ans+=s[i]
+                prev=s[i]
+            
+        return ans
+            
