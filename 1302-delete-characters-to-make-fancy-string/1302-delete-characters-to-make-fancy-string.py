@@ -8,13 +8,11 @@ class Solution:
         for i in range(1,len(s)):
             if s[i]==prev:
                 freq+=1
-                prev=s[i]
-                if freq<3:
-                    ans+=s[i]
             else:
                 freq=1
-                ans+=s[i]
                 prev=s[i]
+            if freq<3:
+                ans+=s[i]
             
         return ans
             
