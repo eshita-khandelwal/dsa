@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
+| [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
+| [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Math
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 <!---LeetCode Topics End-->
