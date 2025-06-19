@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
+| [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/eshita-khandelwal/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
+| [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
