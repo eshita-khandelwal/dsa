@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eshita-khandelwal/dsa/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eshita-khandelwal/dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/eshita-khandelwal/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/eshita-khandelwal/dsa/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 ## Sliding Window
 |  |
@@ -83,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
