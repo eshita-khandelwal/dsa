@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
+| [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshita-khandelwal/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
