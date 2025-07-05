@@ -1,26 +1,25 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        hashRow = {} #0->[],1->[]
-        hashCol={}
-        hashGrid={}
-        for i in range(0,9):
-            hashRow[i] = hashRow.get(i,[])
-            for j in range(0,9):
-                if board[i][j] == ".":
+        col = collections.defaultdict(list)
+        row = collections.defaultdict(list)
+        subbox = collections.defaultdict(list)
+
+
+        for i in range(9):
+            for j in range(9):
+                if board[i][j] == '.':
                     continue
-                hashCol[j] = hashCol.get(j,[])
-                if board[i][j] not in hashRow[i]:
-                    hashRow[i].append(board[i][j])
-                elif board[i][j] in hashRow[i]:
+                if board[i][j] in col[j]:
                     return False
-                if board[i][j] not in hashCol[j]:
-                    hashCol[j].append(board[i][j])
-                elif board[i][j] in hashCol[j]:
+                col[j].append(board[i][j])
+                if board[i][j] in row[i]:
                     return False
-                hashGrid[(i//3,j//3)] = hashGrid.get((i//3,j//3),[])
-                if board[i][j] not in hashGrid[(i//3,j//3)]:
-                    hashGrid[(i//3,j//3)].append(board[i][j])
-                elif board[i][j] in hashGrid[(i//3,j//3)]:
+                row[i].append(board[i][j])
+                if board[i][j] in subbox[(i//3,j//3)]:
                     return False
+                subbox[(i//3,j//3)].append(board[i][j])
         return True
                 
+
+
+        
