@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0783-search-in-a-binary-search-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0783-search-in-a-binary-search-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
