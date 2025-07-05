@@ -23,7 +23,8 @@ class Solution:
 
         create_graph(root)
 
-        q = deque([(start,0)])
+        q = deque()
+        q.append((start,0))
         visit = set()
         res = 0
         print(self.adj_list)
