@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
+| [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,4 +209,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
