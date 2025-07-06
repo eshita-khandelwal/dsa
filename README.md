@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/dsa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/dsa/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0783-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
