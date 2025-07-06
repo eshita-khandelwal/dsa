@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/eshita-khandelwal/dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/eshita-khandelwal/dsa/tree/master/0239-sliding-window-maximum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
