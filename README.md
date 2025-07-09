@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/dsa/tree/master/0739-daily-temperatures) |
+| [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
