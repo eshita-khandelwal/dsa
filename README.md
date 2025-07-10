@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/dsa/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/eshita-khandelwal/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/eshita-khandelwal/dsa/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/eshita-khandelwal/dsa/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
 ## Divide and Conquer
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/eshita-khandelwal/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/eshita-khandelwal/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/eshita-khandelwal/dsa/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/eshita-khandelwal/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
