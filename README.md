@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/eshita-khandelwal/dsa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/eshita-khandelwal/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/eshita-khandelwal/dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/eshita-khandelwal/dsa/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/eshita-khandelwal/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/dsa/tree/master/0198-house-robber) |
 ## Greedy
