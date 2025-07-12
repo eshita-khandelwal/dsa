@@ -6,4 +6,5 @@ class Solution:
         maxAmount[len(nums)-1] = nums[len(nums)-1]
         for i in range(len(nums)-2,-1,-1):
             maxAmount[i] = max(maxAmount[i+1],maxAmount[i+2] + nums[i])
-        return max(maxAmount[0],maxAmount[1])
+        
+        return maxAmount[0]
