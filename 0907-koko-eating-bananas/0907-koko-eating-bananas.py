@@ -5,7 +5,7 @@ class Solution:
             m = (l+r)//2
             hour_spent = 0
             for pile in piles:
-                hour_spent +=math.ceil(pile/m)
+                hour_spent +=math.ceil(pile/m) #ceil(2.3) = 3
             if hour_spent <= h:
                 r = m
             else:
