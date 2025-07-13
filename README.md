@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/eshita-khandelwal/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/eshita-khandelwal/dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
