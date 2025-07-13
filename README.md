@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/eshita-khandelwal/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/dsa/tree/master/0739-daily-temperatures) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/eshita-khandelwal/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/eshita-khandelwal/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
 ## Tree
 |  |
