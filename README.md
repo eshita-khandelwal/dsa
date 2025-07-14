@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshita-khandelwal/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/eshita-khandelwal/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/eshita-khandelwal/dsa/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshita-khandelwal/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/eshita-khandelwal/dsa/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/eshita-khandelwal/dsa/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
+| [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
