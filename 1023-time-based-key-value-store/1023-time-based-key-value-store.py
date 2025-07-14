@@ -14,10 +14,15 @@ class TimeMap:
         values = self.store[key]
         l,r = 0,len(values)-1
         res = ""
+        res_time = timestamp
         while l<=r:
             m = l + ((r-l)//2)
-            if values[m][1]<=timestamp:
-                res = values[m][0]
+            if values[m][1] == timestamp:
+                return values[m][0]
+            elif values[m][1]<timestamp:
+                if res_time > (abs(timestamp-values[m][1])):
+                    res = values[m][0]
+                    res_time = abs(timestamp-values[m][1])
                 l = m+1
             else:
                 r = m-1
