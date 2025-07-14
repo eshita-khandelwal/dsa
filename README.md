@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0540-single-element-in-a-sorted-array](https://github.com/eshita-khandelwal/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0271-encode-and-decode-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/dsa/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
+| [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshita-khandelwal/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
