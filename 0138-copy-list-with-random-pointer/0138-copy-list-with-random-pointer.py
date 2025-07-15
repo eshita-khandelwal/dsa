@@ -9,17 +9,17 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        #hashMap is used for mapping the new node to old node
-        hashMap = {None:None}
-        cur = head
-        
-        while cur:
-            hashMap[cur] = Node(cur.val,None)
-            cur = cur.next
-        
+        store = {None:None}
+        if not head:
+            return head
         cur = head
         while cur:
-            hashMap[cur].next = hashMap[cur.next]
-            hashMap[cur].random = hashMap[cur.random]
+            newNode = Node(cur.val,None,None)
+            store[cur] = newNode
             cur = cur.next
-        return hashMap[head]
+        for key,val in store.items():
+            if key is None:
+                continue
+            val.next = store[key.next]
+            val.random = store[key.random]
+        return store[head]
