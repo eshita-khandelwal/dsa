@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/eshita-khandelwal/dsa/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/eshita-khandelwal/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/eshita-khandelwal/dsa/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/eshita-khandelwal/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/eshita-khandelwal/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
