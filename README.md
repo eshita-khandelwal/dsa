@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/dsa/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/eshita-khandelwal/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/eshita-khandelwal/dsa/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/eshita-khandelwal/dsa/tree/master/0217-contains-duplicate) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/eshita-khandelwal/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/eshita-khandelwal/dsa/tree/master/0207-course-schedule) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/eshita-khandelwal/dsa/tree/master/0207-course-schedule) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/eshita-khandelwal/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
