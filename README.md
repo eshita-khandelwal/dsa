@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/eshita-khandelwal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
