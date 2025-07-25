@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
+| [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 ## Graph
 |  |
 | ------- |
