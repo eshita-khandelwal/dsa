@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshita-khandelwal/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/eshita-khandelwal/dsa/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshita-khandelwal/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/eshita-khandelwal/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/eshita-khandelwal/dsa/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/eshita-khandelwal/dsa/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
