@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/eshita-khandelwal/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
