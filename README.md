@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/eshita-khandelwal/dsa/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/eshita-khandelwal/dsa/tree/master/0149-max-points-on-a-line) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/dsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/eshita-khandelwal/dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/eshita-khandelwal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
