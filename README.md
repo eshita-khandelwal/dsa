@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/eshita-khandelwal/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/eshita-khandelwal/dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/eshita-khandelwal/dsa/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/eshita-khandelwal/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Greedy
 |  |
 | ------- |
@@ -480,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/eshita-khandelwal/dsa/tree/master/0149-max-points-on-a-line) |
+## Number Theory
+|  |
+| ------- |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 <!---LeetCode Topics End-->
