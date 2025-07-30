@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/eshita-khandelwal/dsa/tree/master/0833-bus-routes) |
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/eshita-khandelwal/dsa/tree/master/1706-min-cost-to-connect-all-points) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/eshita-khandelwal/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/eshita-khandelwal/dsa/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/eshita-khandelwal/dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/eshita-khandelwal/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/eshita-khandelwal/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Tree
 |  |
