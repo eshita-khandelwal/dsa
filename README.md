@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3931-process-string-with-special-operations-i](https://github.com/eshita-khandelwal/dsa/tree/master/3931-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/eshita-khandelwal/dsa/tree/master/0735-asteroid-collision) |
+| [3931-process-string-with-special-operations-i](https://github.com/eshita-khandelwal/dsa/tree/master/3931-process-string-with-special-operations-i) |
 ## Union Find
 |  |
 | ------- |
