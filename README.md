@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/eshita-khandelwal/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0567-permutation-in-string](https://github.com/eshita-khandelwal/dsa/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/eshita-khandelwal/dsa/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/eshita-khandelwal/dsa/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
+| [0583-delete-operation-for-two-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
