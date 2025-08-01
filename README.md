@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/eshita-khandelwal/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/eshita-khandelwal/dsa/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/eshita-khandelwal/dsa/tree/master/0778-reorganize-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/eshita-khandelwal/dsa/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/eshita-khandelwal/dsa/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/eshita-khandelwal/dsa/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
