@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
+| [0161-one-edit-distance](https://github.com/eshita-khandelwal/dsa/tree/master/0161-one-edit-distance) |
 | [0242-valid-anagram](https://github.com/eshita-khandelwal/dsa/tree/master/0242-valid-anagram) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0266-palindrome-permutation](https://github.com/eshita-khandelwal/dsa/tree/master/0266-palindrome-permutation) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/eshita-khandelwal/dsa/tree/master/0148-sort-list) |
+| [0161-one-edit-distance](https://github.com/eshita-khandelwal/dsa/tree/master/0161-one-edit-distance) |
 | [0234-palindrome-linked-list](https://github.com/eshita-khandelwal/dsa/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/eshita-khandelwal/dsa/tree/master/0246-strobogrammatic-number) |
 | [0287-find-the-duplicate-number](https://github.com/eshita-khandelwal/dsa/tree/master/0287-find-the-duplicate-number) |
