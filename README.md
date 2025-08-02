@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1319-unique-number-of-occurrences](https://github.com/eshita-khandelwal/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0583-delete-operation-for-two-strings](https://github.com/eshita-khandelwal/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/eshita-khandelwal/dsa/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/eshita-khandelwal/dsa/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Greedy
