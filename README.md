@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshita-khandelwal/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/eshita-khandelwal/dsa/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/eshita-khandelwal/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/eshita-khandelwal/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/dsa/tree/master/0022-generate-parentheses) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/eshita-khandelwal/dsa/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/eshita-khandelwal/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0045-jump-game-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/eshita-khandelwal/dsa/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/eshita-khandelwal/dsa/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/eshita-khandelwal/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/eshita-khandelwal/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/eshita-khandelwal/dsa/tree/master/0234-palindrome-linked-list) |
