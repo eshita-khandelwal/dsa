@@ -1,13 +1,14 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        if len(nums) == 0:
-            return [[]]
-        
         res = []
-        perms = self.permute(nums[1:])
-        for p in perms:
-            for i in range(len(p)+1):
-                p_copy = p.copy()
-                p_copy.insert(i,nums[0])
-                res.append(p_copy)
+        def backtrack(path,remaining):
+            if len(remaining)==0:
+                res.append(path)
+                return
+            for i in range(len(remaining)):
+                newremain = remaining[:i] + remaining[i+1:]
+                newpath = [remaining[i]] + path
+                backtrack(newpath,newremain)
+
+        backtrack([],nums)
         return res
