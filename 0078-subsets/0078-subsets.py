@@ -1,13 +1,17 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        #use backtracking
         res = []
-        def dfs(cur,i):
+        def dfs(i,subset):
+            nonlocal res
             if i == len(nums):
-                res.append(cur.copy())
+                res.append(subset.copy())
                 return
-            cur.append(nums[i])
-            dfs(cur,i+1)
-            cur.pop()
-            dfs(cur,i+1)
-        dfs([],0)
+            subset.append(nums[i])
+            dfs(i+1,subset)
+            subset.pop()
+            dfs(i+1,subset)
+        
+        dfs(0,[])
         return res
+                
