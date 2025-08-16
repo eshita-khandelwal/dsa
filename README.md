@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/eshita-khandelwal/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/eshita-khandelwal/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshita-khandelwal/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/eshita-khandelwal/dsa/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/eshita-khandelwal/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/eshita-khandelwal/dsa/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/eshita-khandelwal/dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/eshita-khandelwal/dsa/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/eshita-khandelwal/dsa/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/eshita-khandelwal/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/eshita-khandelwal/dsa/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshita-khandelwal/dsa/tree/master/0417-pacific-atlantic-water-flow) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/eshita-khandelwal/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/eshita-khandelwal/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
 ## Linked List
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/eshita-khandelwal/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
