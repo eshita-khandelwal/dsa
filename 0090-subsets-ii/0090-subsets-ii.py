@@ -1,15 +1,18 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
-        def dfs(cur,i):
-            res.append(cur.copy())
-            for idx in range(i,len(nums)):
-                if idx>i and nums[idx] == nums[idx-1]:
-                    continue
-                cur.append(nums[idx])
-                dfs(cur,idx+1)
-                cur.pop()
+        res = []
+        def dfs(i,subset):
+            if i == len(nums):
+                res.append(subset.copy())
+                return
+            subset.append(nums[i])
+            dfs(i+1,subset)
+            subset.pop()
+            j = i+1
+            while j<len(nums) and nums[j] == nums[j-1]:
+                j +=1
+            dfs(j,subset)
         
-        dfs([],0)
+        dfs(0,[])
         return res
