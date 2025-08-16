@@ -15,6 +15,7 @@ class Solution:
                     return True
                 seen.remove((i,j))
                 return found
+            return False
         
         for i in range(n):
             for j in range(m):
