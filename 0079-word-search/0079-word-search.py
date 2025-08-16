@@ -1,22 +1,24 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        #time complexity is O( n * m *dfs) => O(n*m * 4^p) p is the length of the word
-        rows = len(board)
-        cols = len(board[0])
-        visit = set()
-        def dfs(r,c,i):
-            if i==len(word):
+        n,m = len(board),len(board[0])
+        seen = set()
+        def dfs(i,j,k):
+            if k == len(word):
                 return True
-            if r<0 or c<0 or r>=rows or c>=cols or (r,c) in visit or board[r][c]!=word[i]:
+            if j<0 or i<0 or i == n or j == m or board[i][j]!=word[k] or (i,j) in seen:
                 return False
             
-            visit.add((r,c))
-            res = dfs(r+1,c,i+1) or dfs(r-1,c,i+1) or dfs(r,c+1,i+1) or dfs(r,c-1,i+1)
-            visit.remove((r,c))
-            return res
-        
-        for r in range(rows):
-            for c in range(cols):
-                if dfs(r,c,0):
+            if board[i][j] == word[k]:
+                seen.add((i,j))
+                found = dfs(i+1,j,k+1) or dfs(i-1,j,k+1) or dfs(i,j+1,k+1) or dfs(i,j-1,k+1)
+                if found:
                     return True
+                seen.remove((i,j))
+                return found
+        
+        for i in range(n):
+            for j in range(m):
+                if dfs(i,j,0):
+                    return True
+        
         return False
