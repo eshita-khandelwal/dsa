@@ -1,18 +1,25 @@
 class Solution:
-    def combinationSum(self, nums: List[int], target: int) -> List[List[int]]:
-        ans = []
-        def dfs(nums,res,i):
-            nonlocal ans
-            if i >= len(nums) or sum(res)>target:
-                return 
-            if target == sum(res):
-                ans.append(res.copy())
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = []
+        seen = set()
+        def dfs(i,sum1,subset):
+            if i==len(candidates) or sum1 > target:
                 return
-            res.append(nums[i])
-            dfs(nums,res,i)
-            res.pop()
-            dfs(nums,res,i+1)
-
+            if sum1 == target:
+                sorted_subset = tuple(sorted(subset))
+                if sorted_subset in seen:
+                    return
+                res.append(subset.copy())
+                seen.add(sorted_subset)
+                return
+            
+            subset.append(candidates[i])
+            sum1 +=candidates[i]
+            dfs(i,sum1,subset)
+            subset.pop()
+            sum1 -=candidates[i]
+            dfs(i+1,sum1,subset)
         
-        dfs(nums,[],0)
-        return list(ans)
+        
+        dfs(0,0,[])
+        return res
