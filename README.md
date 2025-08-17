@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/eshita-khandelwal/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/eshita-khandelwal/dsa/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/eshita-khandelwal/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0472-concatenated-words](https://github.com/eshita-khandelwal/dsa/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/eshita-khandelwal/dsa/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/eshita-khandelwal/dsa/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/eshita-khandelwal/dsa/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/eshita-khandelwal/dsa/tree/master/1706-min-cost-to-connect-all-points) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/eshita-khandelwal/dsa/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/eshita-khandelwal/dsa/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/eshita-khandelwal/dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/eshita-khandelwal/dsa/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/eshita-khandelwal/dsa/tree/master/1706-min-cost-to-connect-all-points) |
