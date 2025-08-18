@@ -1,22 +1,23 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        #graph problem where we need to find minimum so we use djikstra algorithm
-        t = 0
-        #edges = collections.defaultdict(list)
-        edges = {i:[] for i in range(1,n+1)}
-        for u,v,w in times:
-            edges[u].append([v,w])
+        adj = collections.defaultdict(list)
+        for n1,n2,w1 in times:
+            adj[n1].append((w1,n2))
+        
         minHeap = []
-        heapq.heappush(minHeap,[0,k])
+        minHeap.append((0,k))
+        heapq.heapify(minHeap)
         visit = set()
+        max1 = -1
         while minHeap:
             w1,n1 = heapq.heappop(minHeap)
             if n1 in visit:
                 continue
             visit.add(n1)
-            t = max(t,w1)
-            for n2,w2 in edges[n1]:
-                if n2 not in visit:
-                    heapq.heappush(minHeap,[w1+w2,n2])
-        return t if len(visit) == n else -1
-
+            max1 = max(max1,w1)
+            for w2,nei in adj[n1]:
+                if nei not in visit:
+                    heapq.heappush(minHeap,(w1+w2,nei))
+        
+        return max1 if len(visit)==n else -1
+            
