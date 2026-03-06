@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/eshita-khandelwal/dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshita-khandelwal/dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2470-removing-stars-from-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/2470-removing-stars-from-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/eshita-khandelwal/dsa/tree/master/3931-process-string-with-special-operations-i) |
 ## Math
