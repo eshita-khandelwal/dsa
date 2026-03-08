@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/eshita-khandelwal/dsa/tree/master/1706-min-cost-to-connect-all-points) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
+| [1980-find-unique-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1980-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/eshita-khandelwal/dsa/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/eshita-khandelwal/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/eshita-khandelwal/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/eshita-khandelwal/dsa/tree/master/1848-sum-of-unique-elements) |
+| [1980-find-unique-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1980-find-unique-binary-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/eshita-khandelwal/dsa/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/eshita-khandelwal/dsa/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/eshita-khandelwal/dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1980-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/eshita-khandelwal/dsa/tree/master/2470-removing-stars-from-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/eshita-khandelwal/dsa/tree/master/3931-process-string-with-special-operations-i) |
 ## Math
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/eshita-khandelwal/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/eshita-khandelwal/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/eshita-khandelwal/dsa/tree/master/0131-palindrome-partitioning) |
+| [1980-find-unique-binary-string](https://github.com/eshita-khandelwal/dsa/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
 | ------- |
