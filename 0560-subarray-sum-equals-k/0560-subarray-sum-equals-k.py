@@ -1,15 +1,15 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        res = 0
-        currSum = 0
-        count = {0:1}
-        for n in nums:
-            currSum +=n
-            diff = currSum - k
-            res += count.get(diff,0)
-            count[currSum] = 1 + count.get(currSum,0)
-        return res
-
-# [1,1,1] -> currsum = 1, diff = 1-2 = -1, count= {0:1,1:1}
-# currsum = 2 diff = 0 res = 1 count = {0:1,1:1,2:1}
-# currsum 3 diff = 1 count = {0:1,1:1,2:1,3:1}
+        #hashmap is total:freq
+        #{0:1} # we put this becasue is will never be calculated
+        hashMap = {0:1}
+        total = count = 0
+        for i in range(len(nums)):
+            total+=nums[i]
+            if total-k in hashMap:
+                count+=hashMap[total-k]
+            
+            hashMap[total] = 1 + hashMap.get(total,0)
+        
+        return count
+            
