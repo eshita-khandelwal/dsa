@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/eshita-khandelwal/dsa/tree/master/0739-daily-temperatures) |
 | [0833-bus-routes](https://github.com/eshita-khandelwal/dsa/tree/master/0833-bus-routes) |
 | [0907-koko-eating-bananas](https://github.com/eshita-khandelwal/dsa/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/eshita-khandelwal/dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/eshita-khandelwal/dsa/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/eshita-khandelwal/dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/eshita-khandelwal/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/eshita-khandelwal/dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/eshita-khandelwal/dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/eshita-khandelwal/dsa/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/eshita-khandelwal/dsa/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/eshita-khandelwal/dsa/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/eshita-khandelwal/dsa/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/eshita-khandelwal/dsa/tree/master/1380-number-of-closed-islands) |
