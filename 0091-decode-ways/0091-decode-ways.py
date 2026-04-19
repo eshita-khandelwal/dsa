@@ -6,6 +6,7 @@ class Solution:
         for i in range(len(s)-1,-1,-1):
             if s[i]=='0':
                 dp[i]=0
+                continue
             
             else:
                 dp[i]=dp[i+1]
